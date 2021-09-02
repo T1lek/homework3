@@ -34,7 +34,7 @@ public class Main {
                     a[j]=a[j + 1];
                     a[j+1]=c;
                 }
-;            }
+            }
         }
         System.out.println(Arrays.toString(a));
     }
